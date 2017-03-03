@@ -1,2 +1,2 @@
 # PINbrute
-A documentation and code snippet repo for my InfoMatrix repo.
+A documentation and code snippet repo for my InfoMatrix project.
